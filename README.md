@@ -1,4 +1,4 @@
-# Let-It-Snow
-Exemple d'interaction homme machine sur le Web statique avec p5.js et p5.sound.js
+# p5js-toto
+Exemple d'interaction homme machine sur le Web statique avec p5.js
 
-Lien pour visualiser le projet depuis Glitch : https://ericecmorlaix-let-it-snow.glitch.me
+Lien pour visualiser le projet depuis Glitch : https://ericecmorlaix-p5js-toto.glitch.me
